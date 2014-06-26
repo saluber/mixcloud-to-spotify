@@ -1,4 +1,4 @@
-require 'rainbow'
+require 'rainbow/ext/string'
 require 'rest_client'
 
 def abort(msg)

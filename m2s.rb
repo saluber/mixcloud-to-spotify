@@ -1,7 +1,7 @@
 require 'highline/import'
 require 'meta-spotify'
 require 'mixcloud'
-require 'rainbow'
+require 'rainbow/ext/string'
 require 'rest_client'
 require './helpers'
 
